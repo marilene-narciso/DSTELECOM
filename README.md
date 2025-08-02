@@ -138,12 +138,12 @@ pip install -r requirements.txt
 ```
 02DSChalenge/
 ├── Desafio_TelecomX_MNN.ipynb          # Notebook com a análise completa
+├── confusion_matrix_rf.png
+├── roc_curve_modelos.png
+├── boxplot_tenure_churn.png
+├── boxplot_totalcharges_churn.png
 ├── dados/                                # Diretório para armazenar os dados 
 │   ├── dados_tratados.csv
-│   ├── confusion_matrix_rf.png
-│   ├── roc_curve_modelos.png
-│   ├── boxplot_tenure_churn.png
-│   ├── boxplot_totalcharges_churn.png
 ├── README.md                             # Documentação do projeto
 ```
 ---
